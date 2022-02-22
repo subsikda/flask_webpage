@@ -1,1 +1,1 @@
-# Blog webpage using FLask
+# Blogpage using FLask
